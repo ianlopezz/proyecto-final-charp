@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Ian Lopez\\Desktop\\DAW\\practiques_ianlopez_1daw\\programacion\\proj f\\proj f.csproj",
+      "projectUniqueName": "C:\\Users\\Ian Lopez\\Desktop\\PFC#\\proj f.csproj",
       "projectName": "proj f",
-      "projectPath": "C:\\Users\\Ian Lopez\\Desktop\\DAW\\practiques_ianlopez_1daw\\programacion\\proj f\\proj f.csproj",
+      "projectPath": "C:\\Users\\Ian Lopez\\Desktop\\PFC#\\proj f.csproj",
       "packagesPath": "C:\\Users\\Ian Lopez\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Ian Lopez\\Desktop\\DAW\\practiques_ianlopez_1daw\\programacion\\proj f\\obj\\",
+      "outputPath": "C:\\Users\\Ian Lopez\\Desktop\\PFC#\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Ian Lopez\\AppData\\Roaming\\NuGet\\NuGet.Config"

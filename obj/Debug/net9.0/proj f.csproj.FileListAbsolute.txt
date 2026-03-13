@@ -1,0 +1,15 @@
+C:\Users\Ian Lopez\Desktop\PFC#\bin\Debug\net9.0\proj f.exe
+C:\Users\Ian Lopez\Desktop\PFC#\bin\Debug\net9.0\proj f.deps.json
+C:\Users\Ian Lopez\Desktop\PFC#\bin\Debug\net9.0\proj f.runtimeconfig.json
+C:\Users\Ian Lopez\Desktop\PFC#\bin\Debug\net9.0\proj f.dll
+C:\Users\Ian Lopez\Desktop\PFC#\bin\Debug\net9.0\proj f.pdb
+C:\Users\Ian Lopez\Desktop\PFC#\obj\Debug\net9.0\proj f.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ian Lopez\Desktop\PFC#\obj\Debug\net9.0\proj f.AssemblyInfoInputs.cache
+C:\Users\Ian Lopez\Desktop\PFC#\obj\Debug\net9.0\proj f.AssemblyInfo.cs
+C:\Users\Ian Lopez\Desktop\PFC#\obj\Debug\net9.0\proj f.csproj.CoreCompileInputs.cache
+C:\Users\Ian Lopez\Desktop\PFC#\obj\Debug\net9.0\proj f.sourcelink.json
+C:\Users\Ian Lopez\Desktop\PFC#\obj\Debug\net9.0\proj f.dll
+C:\Users\Ian Lopez\Desktop\PFC#\obj\Debug\net9.0\refint\proj f.dll
+C:\Users\Ian Lopez\Desktop\PFC#\obj\Debug\net9.0\proj f.pdb
+C:\Users\Ian Lopez\Desktop\PFC#\obj\Debug\net9.0\proj f.genruntimeconfig.cache
+C:\Users\Ian Lopez\Desktop\PFC#\obj\Debug\net9.0\ref\proj f.dll
